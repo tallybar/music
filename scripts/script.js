@@ -12,7 +12,7 @@ new Vue({
         {
           name: "Destiny",
           artist: "NEFFEX",
-          cover: "../img/1.jpg",
+          cover: "../img/1.png",
           source: "../mp3/Destiny.mp3",
           url: "https://www.youtube.com/watch?v=2S24-y0Ij3Y&ab_channel=BLACKPINK",
           favorited: false
