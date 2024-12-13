@@ -14,74 +14,16 @@ new Vue({
           artist: "NEFFEX",
           cover: "../img/1.png",
           source: "../mp3/Destiny.mp3",
-          url: "https://www.youtube.com/watch?v=2S24-y0Ij3Y&ab_channel=BLACKPINK",
+          url: "https://www.you",
           favorited: false
         },
         {
-          name: "DDU DU DDU DU 🔫 ",
-          artist: "BlackPink",
+          name: " ",
+          artist: "",
           cover: "../img/2.jpeg",
           source: "../mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=IHNzOHi8sJs&ab_channel=BLACKPINK",
+          url: "https://www.youtube.com",
           favorited: true
-        },
-
-        {
-          name: "Lovesick Girls",
-          artist: "BlackPink",
-          cover: "../img/3.jpeg",
-          source: "../mp3/3.mp3",
-          url: "https://www.youtube.com/watch?v=dyRsYk0LyA8&ab_channel=BLACKPINK",
-          favorited: false
-        },
-
-        {
-          name: "Playing With Fire 🔥",
-          artist: "BlackPink",
-          cover: "../img/4.jpeg",
-          source: "../mp3/4.mp3",
-          url: "https://www.youtube.com/watch?v=9pdj4iJD08s&ab_channel=BLACKPINK",
-          favorited: false
-        },
-        {
-          name: "As If It's Your Last",
-          artist: "BlackPink",
-          cover: "../img/5.jpeg",
-          source: "../mp3/5.mp3",
-          url: "https://www.youtube.com/watch?v=Amq-qlqbjYA&ab_channel=BLACKPINK",
-          favorited: true
-        },
-        {
-          name: "Boy with Love",
-          artist: "BTS",
-          cover: "../img/6.jpg",
-          source: "../mp3/6.mp3",
-          url: "https://www.youtube.com/watch?v=XsX3ATc3FbA&ab_channel=HYBELABELS",
-          favorited: false
-        },
-        {
-          name: "Dynamite",
-          artist: "BTS",
-          cover: "../img/7.jpeg",
-          source: "../mp3/7.mp3",
-          url: "https://www.youtube.com/watch?v=gdZLi9oWNZg&ab_channel=HYBELABELS",
-          favorited: true
-        },
-        {
-          name: "DNA",
-          artist: "BTS",
-          cover: "../img/8.jpeg",
-          source: "../mp3/8.mp3",
-          url: "https://www.youtube.com/watch?v=MBdVXkSdhwU&ab_channel=HYBELABELS",
-          favorited: false
-        },
-        {
-          name: "Butter",
-          artist: "BTS",
-          cover: "../img/9.jpeg",
-          source: "../mp3/9.mp3",
-          url: "https://www.youtube.com/watch?v=WMweEpGlu_U&ab_channel=HYBELABELS",
-          favorited: false
         }
       ],
       currentTrack: null,
