@@ -10,10 +10,10 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Kill This Love 💔",
-          artist: "BlackPink",
+          name: "Destiny",
+          artist: "NEFFEX",
           cover: "../img/1.jpg",
-          source: "../mp3/1.mp3",
+          source: "../mp3/Destiny.mp3",
           url: "https://www.youtube.com/watch?v=2S24-y0Ij3Y&ab_channel=BLACKPINK",
           favorited: false
         },
